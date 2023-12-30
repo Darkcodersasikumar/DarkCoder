@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working as **Student**
 
-- 🌱 I’m currently learning **Full Stack Java Development**
-
+- 🌱 I’m currently learning **Java**
+  
 - 👯 I’m looking to collaborate on **Java Projects & Web Development**
 
 - 📫 How to reach me **mr.inspiring5566@gmail.com**
